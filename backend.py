@@ -24,8 +24,6 @@ from autogen_core.tools import FunctionTool
 from autogen_agentchat.agents import AssistantAgent
 from autogen_agentchat.messages import (
     TextMessage,
-    ToolCallExecutionEvent,
-    ToolCallRequestEvent,
 )
 from autogen_agentchat.teams import RoundRobinGroupChat
 from autogen_ext.models.openai import OpenAIChatCompletionClient
