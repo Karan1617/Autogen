@@ -13,5 +13,3 @@ An interactive **Streamlit web app** that helps users conduct a quick literature
 
 ---
 
-## 📂 Project StructureSet-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUserSet-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUserSet-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUserSet-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUserSet-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUserSet-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUserSet-E
-
