@@ -9,6 +9,7 @@ Users enter a topic and number of papers, then see the two agents work together 
 '''
 
 import asyncio
+import numpy as np
 import streamlit as st
 
 from backend import run_litrev
